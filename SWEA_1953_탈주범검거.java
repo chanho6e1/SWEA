@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class SWEA_1953_탈주범검거 {
+public class SWEA_1953_탈주범검거 { 
 
 	static int[][] tunnel = { { 0, 0, 0, 0 }, { 1, 1, 1, 1 }, // 상우하좌
 			{ 1, 0, 1, 0 }, // 상하
