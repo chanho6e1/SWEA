@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
-
+ 
 public class SWEA_5656_벽돌깨기 {
 
 	static int N, W, H, res;
