@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
-
+ 
 public class SWEA_1767_프로세서연결하기 {
 	
 	static int N, map[][];
